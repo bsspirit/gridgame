@@ -2,7 +2,4 @@
 
 export(g2048)
 export(snake)
-exportClasses(G2048)
-exportClasses(Game)
-exportClasses(Snake)
 import(methods)

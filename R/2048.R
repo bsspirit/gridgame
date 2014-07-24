@@ -1,6 +1,5 @@
 #' Snake game class
 #' @include game.R
-#' @export
 G2048<-setRefClass("G2048",contains="Game",
                    
    methods=list(

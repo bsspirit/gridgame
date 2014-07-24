@@ -1,6 +1,5 @@
 #' Snake game class
 #' @include game.R
-#' @export
 Snake<-setRefClass("Snake",contains="Game",
                    
    methods=list(

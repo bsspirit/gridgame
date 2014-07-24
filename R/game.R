@@ -8,8 +8,6 @@
 #' \dontrun{
 #'  Snake<-setRefClass("Snake",contains="Game")
 #' }
-#'
-#' @export
 Game<-setRefClass('Game',
                   
     fields=list(
