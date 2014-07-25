@@ -7,8 +7,8 @@ Authors@R: c(person("Dan", "Zhang", email = "bsspirit@gmail.com", role
     =c("aut", "cre")))
 Maintainer: Dan Zhang <bsspirit@gmail.com>
 Description: This package provides a general-purpose game framework for grid
-    game in R. The package includes 2 games about snake and 2048. You can run the
-    function snake() or g2048() to startup the game. These games are only
+    game in R. The package includes 2 games about snake and 2048. You can run
+    the function snake() or g2048() to startup the game. These games are only
     running on Window platform.
 Depends:
     R (>= 3.0.1)
