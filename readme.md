@@ -1,6 +1,6 @@
 # gridgame
 
-The R package **gridgamer** This package provides a general-purpose game framework for grid game in R.The GUI snake(),g2048() needs package "tkrplot" if you are not on    Windows.
+The R package **gridgamer** This package provides a general-purpose game framework for grid game in R. The package includes 2 games about snake and 2048. You can run the function snake() or g2048() to startup the game. These games are only running on **Window** platform.
 
 [homepage](http://onbook.me/#/project/gridgame) for details and examples. See
 [FAQ's](https://github.com/bsspirit/gridgame/wiki) for a list of

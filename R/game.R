@@ -84,12 +84,11 @@ Game<-setRefClass('Game',
         stage0()
         
         if(.Platform$OS.type=='unix'){#linux
-          #X11(type='Xlib')
+          stop("These games are runing on Window!!")  
           
-          if(!require(tkrplot)){
-            stop("'tkrplot' package needed\n")  
-          }
-          
+          #if(!require(tkrplot)){
+          #  stop("'tkrplot' package needed\n")  
+          #}
         }else if(.Platform$OS.type=='windows'){#window
         }
         
