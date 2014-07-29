@@ -83,13 +83,8 @@ Game<-setRefClass('Game',
         par(mai=rep(0,4),oma=rep(0,4))
         stage0()
         
-        if(.Platform$OS.type=='unix'){#linux
+        if(.Platform$OS.type=='unix'){
           stop("These games are runing on Window!!")  
-          
-          #if(!require(tkrplot)){
-          #  stop("'tkrplot' package needed\n")  
-          #}
-        }else if(.Platform$OS.type=='windows'){#window
         }
         
         getGraphicsEvent(prompt="Snake Game",onKeybd=function(K){

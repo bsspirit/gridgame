@@ -1,7 +1,7 @@
 Package: gridgame
 Type: Package
 Title: A game framework for R
-Version: 0.0.1
+Version: 0.0.3
 Date: 2014-07-23
 Authors@R: c(person("Dan", "Zhang", email = "bsspirit@gmail.com", role
     =c("aut", "cre")))
@@ -15,8 +15,9 @@ Depends:
 Imports:
     methods
 License: GPL-3
-URL: http://onbook.me/#/project/gridgame
+URL: https://github.com/bsspirit/gridgame
 BugReports: https://github.com/bsspirit/gridgame/issues
+OS_type: windows
 Collate:
     'game.R'
     '2048.R'
