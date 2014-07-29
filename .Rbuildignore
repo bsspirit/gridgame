@@ -1,5 +1,5 @@
 .gitignore
-dist\*
+dist
 ^.*\.Rproj$
 ^\.Rproj\.user$
 README*

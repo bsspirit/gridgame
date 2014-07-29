@@ -16,7 +16,7 @@ Imports:
     methods
 License: GPL-3
 URL: http://onbook.me/#/project/gridgame
-BugReports: http://onbook.me/#/project/gridgame
+BugReports: https://github.com/bsspirit/gridgame/issues
 Collate:
     'game.R'
     '2048.R'
