@@ -56,6 +56,11 @@ g2048()
 + R语言游戏之旅 游戏2048 http://blog.fens.me/r-game-2048/
 + 发布gridgame游戏包 http://blog.fens.me/r-game-gridgame/
 
+## Screenshots
+
+<img src="http://blog.fens.me/wp-content/uploads/2014/06/snake.gif" width="200px"/>
+<img src="http://blog.fens.me/wp-content/uploads/2014/07/2048.gif" width="200px"/>
+
 
 ## License
 
