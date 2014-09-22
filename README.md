@@ -54,7 +54,7 @@ This package is free and open source software, licensed under GPL-3.
 
 ## TODO
 
-1. Deploy on CRAN:
+*1. Deploy on CRAN:
 
 You can install the stable version on [CRAN](http://cran.r-project.org/package=gridgame):
 
@@ -62,7 +62,7 @@ You can install the stable version on [CRAN](http://cran.r-project.org/package=g
 install.packages('gridgame')
 ```
 
-2. Deploy on RForge:
+*2. Deploy on RForge:
 
 Another way, You can also install from [RForge](http://rforge.net/gridgame/), which provides daily build of **gridgame**:
 
